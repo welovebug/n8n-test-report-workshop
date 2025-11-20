@@ -1,0 +1,11 @@
+{{
+  {
+    "to": "C6f96bde3a76e35ee2992683a15832cd7",
+    "messages": [
+      {
+        "type": "text",
+        "text": $("Chatroom Message Builder").item.json.message
+      }
+    ]
+  }
+}}
